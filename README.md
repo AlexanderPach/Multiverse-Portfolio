@@ -1,4 +1,4 @@
 # Multiverse-Portfolio
 
 <h2>Summary</h2>
-<p>hello</p>
+<p>Within these past 15 months, I've learned a tremendous amount of skills essential to my Software Engineering Field</p>
